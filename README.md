@@ -6,7 +6,7 @@
 ## Purpose
  To allow operator to navigate data on a touchscreen
  
-#Initial Planning
+# Initial Planning
 
 ## Low Fidelity Wireframes
 ![Picture](https://i.imgur.com/Mnan922.jpg) 
@@ -22,4 +22,13 @@
  * This includes graphs that depict trends of sensor readings and maintenance data.
  * Graphs that displays information to the user in an easily comprehensible manner.
  * Tables that provide more details on demand.
+ 
+ ## Technologies Used
+ * Ionic Framework
+ * Chart.js
+ * Adobe XD
+ 
+ ## Demo Link
+ [Link](https://vimeo.com/416199491)
+ 
  
