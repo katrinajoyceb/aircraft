@@ -28,7 +28,8 @@
  * Chart.js
  * Adobe XD
  
- ## Demo Link
- [Link](https://vimeo.com/416199491)
+ ## Demo & Link
+ ![Picture](https://i.imgur.com/tTjCtEi.jpg) 
+ Video Link: [Link](https://vimeo.com/416199491)
  
  
